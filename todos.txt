@@ -1,0 +1,7 @@
+coden
+lernen
+Denken
+Update Pycharm
+update Windows
+debuggen
+deploy
